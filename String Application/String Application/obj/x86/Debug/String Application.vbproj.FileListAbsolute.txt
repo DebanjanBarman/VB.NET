@@ -1,0 +1,13 @@
+c:\users\admin\documents\visual studio 2010\Projects\String Application\String Application\bin\Debug\String Application.exe
+c:\users\admin\documents\visual studio 2010\Projects\String Application\String Application\bin\Debug\String Application.pdb
+c:\users\admin\documents\visual studio 2010\Projects\String Application\String Application\bin\Debug\String Application.xml
+c:\users\admin\documents\visual studio 2010\Projects\String Application\String Application\obj\x86\Debug\String_Application.Form1.resources
+c:\users\admin\documents\visual studio 2010\Projects\String Application\String Application\obj\x86\Debug\String_Application.Resources.resources
+c:\users\admin\documents\visual studio 2010\Projects\String Application\String Application\obj\x86\Debug\String_Application.Replace.resources
+c:\users\admin\documents\visual studio 2010\Projects\String Application\String Application\obj\x86\Debug\String Application.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2010\Projects\String Application\String Application\obj\x86\Debug\String Application.exe
+c:\users\admin\documents\visual studio 2010\Projects\String Application\String Application\obj\x86\Debug\String Application.xml
+c:\users\admin\documents\visual studio 2010\Projects\String Application\String Application\obj\x86\Debug\String Application.pdb
+c:\users\admin\documents\visual studio 2010\Projects\String Application\String Application\obj\x86\Debug\String_Application.Concatenation.resources
+c:\users\admin\documents\visual studio 2010\Projects\String Application\String Application\obj\x86\Debug\String_Application.Length.resources
+c:\users\admin\documents\visual studio 2010\Projects\String Application\String Application\obj\x86\Debug\String_Application.SubStr.resources
